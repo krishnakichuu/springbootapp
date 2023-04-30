@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://admin:admin@crud.i6wbupa.mongodb.net/?retryWrites=true&w=majority
+      database : Student
